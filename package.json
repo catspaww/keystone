@@ -1,0 +1,10 @@
+{
+  "name": "keystone-js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "@keystone-6/core": "^5.2.0",
+    "typescript": "^5.0.4"
+  }
+}
